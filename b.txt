@@ -1,4 +1,3 @@
 my second file.
 now I added a new line.
 third line!
-fourth line maybe?
