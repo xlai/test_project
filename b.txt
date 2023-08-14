@@ -1,3 +1,3 @@
 my second file.
-now I added a new line.
+now I modified the second line of b.
 third line!
